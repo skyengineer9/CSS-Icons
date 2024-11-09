@@ -1,0 +1,9 @@
+/* Style for Google Material Symbols icons */
+.material-symbols-outlined {
+  /* Defining font-variation settings to control various properties of the icon font */
+  font-variation-settings:
+    'FILL' 0, /* Regular fill */
+    'wght' 400, /* Regular weight */
+    'GRAD' 0, /* Regular grade */
+    'opsz' 24; /* Regular optical size */
+}
